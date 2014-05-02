@@ -5,6 +5,15 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sandbox node_modules" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="capistrano (v3.2.1, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capistrano-yeoman (v0.0.2, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-scp (v1.2.1, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.9.0, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.1, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sshkit (v1.4.0, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="term-ansicolor (v1.3.0, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tins (v1.1.0, RVM: ruby-2.1.1 [sandbox]) [gem]" level="application" />
   </component>
 </module>
 
